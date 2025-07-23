@@ -97,7 +97,7 @@ Run the notebook `human_identification_using_cnn.ipynb` step-by-step in Jupyter 
 
 ## 👨‍💻 Author
 
-rohanshenoy30
+Rohan Shenoy
 
 ## 📜 License
 
